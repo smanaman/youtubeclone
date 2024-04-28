@@ -669,7 +669,7 @@ align-items: center;
 .son_div{
   width: 100%;
 height: 150px;
-border: 1px solid black;
+border-bottom: 1px solid black;
 
 }
 .son_div_1{
@@ -682,16 +682,83 @@ border: 1px solid black;
 .son_div_text{
   width: 80%;
   height: 100%;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   font-size: 15px;
   font-family: "Roboto", "Arial", sans-serif;
+  display: flex;
+  align-items: center;
 }
 .son_div_img{
   width: 25%;
   height: 100%;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   display: flex;
   justify-content: center;
   align-items: center;
 
 }
+                    /* .setting_main */
+
+.setting_main{
+  width: 100%;
+  height: 200px;
+  border-bottom: 1px solid black;
+}
+.setting_img{
+  width: 25%;
+  height: 100%;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+} 
+.setting_div{
+  width: 100%;
+  margin-top: 5px;
+  height: 40px;
+  border: 1px solid black;
+  display: flex;
+}   
+.setting_text{
+  width: 80%;
+  height: 100%;
+  /* border: 1px solid black; */
+  font-size: 15px;
+  font-family: "Roboto", "Arial", sans-serif;
+  display: flex;
+  align-items: center;
+}   
+.setting_div span{
+  font-size: 28px;
+}  
+              /* .last_div_for_p          */
+
+
+.last_div_for_p{
+  width: 100%;
+  height: 200px;
+  border: 1px solid black;
+} 
+.text_for_p{
+  width: 100%;
+  height: 75px;
+  border: 1px solid black;
+  font-size: 15px;
+  font-family: "Roboto", "Arial", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 5px;
+} 
+.simbol{
+  margin-top: 5px;
+  width: 100%;
+  height: 30px;
+  /* border: 1px solid black; */
+  font-size: 15px;
+  display: flex;
+/* justify-content: center; */
+align-items: center;
+margin-left: 19px;
+}        
