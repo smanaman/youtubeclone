@@ -1,0 +1,188 @@
+
+
+
+
+All
+
+Musics
+
+MIxes
+T-sires
+Arijit Singh
+Atif Aslam
+
+
+
+
+<div class="short_video_2">
+   
+   
+    
+   
+</div>
+
+
+.main_2_1under1 {
+    width: 50px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 5px;
+  }
+  
+  .main_2_1under2 {
+    width: 60px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under3 {
+    width: 70px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under4 {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under5 {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under6 {
+    width: 100px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under7 {
+    width: 300px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under8 {
+    width: 100px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under9 {
+    width: 100px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under10 {
+    width: 100px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    margin-left: 15px;
+  }
+  
+  .main_2_1under11 {
+    width: 100px;
+    height: 30px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-family: "Arial";
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(237, 221, 221);
+    margin-left: 15px;
+  }
