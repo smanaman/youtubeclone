@@ -186,3 +186,22 @@ Atif Aslam
     background-color: rgb(237, 221, 221);
     margin-left: 15px;
   }
+
+  @media screen and (min-width:321px) and (max-width:375px){
+    .round_img {
+      width: 75%;
+      height: 35px;
+      /* border: 1px solid black; */
+      border-radius: 50px;
+  }
+  }
+  @media screen and (min-width:376px) and (max-width:431px){
+    .round_img {
+      width: 65%;
+      height: 35px;
+      /* border: 1px solid black; */
+      border-radius: 50px;
+  }
+  
+  }
+
