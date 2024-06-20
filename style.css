@@ -1104,7 +1104,7 @@ border-radius: 25px;
 
 
 
-@media screen and (min-width:320px) and (max-width:426px){
+@media only screen  and  (max-width:440px){
   
 
  
@@ -1476,7 +1476,7 @@ overflow-x: auto;
   border-radius: 1px;
 }
 .round_img {
-  width: 80%;
+  width: 35px;
   height: 35px;
   /* border: 1px solid black; */
   border-radius: 50px;
@@ -1485,7 +1485,7 @@ overflow-x: auto;
 
 
 
-@media screen and (min-width:426px) and (max-width:768px){
+@media screen and (min-width:441px) and (max-width:768px){
 
   .contener_main_2_1 {
     width: 100%;
